@@ -1,1 +1,1 @@
-This is a simple flutter app that utilizes ListVeiw
+This is a simple flutter app, It is a grocery list that utilizes ListVeiw
